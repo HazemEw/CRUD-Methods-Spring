@@ -6,11 +6,6 @@ This project is a Hospital Management System built using Spring Boot. The system
 ## Description
 The Hospital Management System aims to streamline hospital operations, offering modules for managing doctor profiles, patient records, and departmental information. The system enhances administrative efficiency and improves patient care by providing a centralized platform for hospital management.
 
-## Key Features
-- **Doctor Management**: Allows administrators to manage doctor profiles, including their specializations, schedules, and contact information.
-- **Patient Management**: Enables tracking of patient information, medical history, and treatment records.
-- **Department Management**: Facilitates the organization of hospital departments, including department details and associated staff.
-
 ## Installation
 
 ### Prerequisites
